@@ -1,0 +1,15 @@
+{
+  "name": "elshadai-digital",
+  "version": "1.0.0",
+  "description": "Elshadai Digital - VLE Digital Service Center",
+  "scripts": {
+    "dev": "echo 'Static HTML site - open index.html in browser'",
+    "build": "echo 'No build required for static HTML'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "keywords": ["vle", "digital-services", "vercel-analytics"],
+  "author": "Elshadai Digital",
+  "license": "MIT"
+}
